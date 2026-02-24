@@ -3,7 +3,7 @@ import pandas as pd
 df = pd.read_csv("clean.csv")
 query_df = pd.read_csv("query.csv")
 
-
+query_df.head()
 
 out = []
 for idx, row in query_df.iterrows():
