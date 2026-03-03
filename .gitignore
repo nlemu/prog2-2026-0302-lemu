@@ -1,8 +1,6 @@
 # macOS
 .DS_Store
-
-# Runtime outputs
-runs/
+venv
 
 # Grid local data
 solutions/Grid/grid_data.json
